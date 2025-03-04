@@ -2,7 +2,7 @@
 <h3>Easy</h3>
 <hr><p>There are <code>n</code> kids with candies. You are given an integer array <code>candies</code>, where each <code>candies[i]</code> represents the number of candies the <code>ith</code> kid has, and an integer <code>extraCandies</code>, denoting the number of extra candies that you have.</p>
 
-<p>Return a <em>boolean array <code>result</code> of length <code>n</code>, where <code>result[i]</code> is <code>true</code> if, after giving the <code>ith</code> kid all the <code>extraCandies</code>, they will have the <strong>greatest</strong> number of candies among all the kids, or <code>false</code> otherwise.</em></p>
+<p>Return a <em>boolean array</em> <code>result</code> <em>of length</em> <code>n</code><em>, where</em> <code>result[i]</code> <em>is</em> <code>true</code> <em>if, after giving the</em> <code>ith</code> <em>kid all the</em> <code>extraCandies</code><em>, they will have the <strong>greatest</strong> number of candies among all the kids, or</em> <code>false</code> <em>otherwise.</em></p>
 
 <p>Note that <strong>multiple</strong> kids can have the <strong>greatest</strong> number of candies.</p>
 
@@ -26,6 +26,7 @@
 <strong>Output:</strong> [true,false,false,false,false] 
 <strong>Explanation:</strong> There is only 1 extra candy.
 Kid 1 will always have the greatest number of candies, even if a different kid is given the extra candy.
+</pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
@@ -40,6 +41,6 @@ Kid 1 will always have the greatest number of candies, even if a different kid i
 <ul>
 	<li><code>n == candies.length</code></li>
 	<li><code>2 <= n <= 100</code></li>
-    <li><code>1 <= candies[i] <= 100</code></li>
-    <li><code>1 <= extraCandies <= 50</code></li>
+    	<li><code>1 <= candies[i] <= 100</code></li>
+    	<li><code>1 <= extraCandies <= 50</code></li>
 </ul>
