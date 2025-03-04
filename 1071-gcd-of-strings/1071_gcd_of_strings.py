@@ -16,6 +16,3 @@ class Solution(object):
                 return str1[:i]
         
         return ""
-        
-
-        
