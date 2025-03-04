@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings?envType=study-plan-v2&envId=leetcode-75">1071. Greatest Common Divisor of Strings</a></h2><h3>Easy</h3>
+<h2><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">1071. Greatest Common Divisor of Strings</a></h2><h3>Easy</h3>
 <hr><p>For two strings <code>s</code> and <code>t</code>, we say "<code>t</code> divides <code>s</code>" if and only if <code>s = t + t + t + ... + t + t</code> (i.e., <code>t</code> is concatenated with itself one or more times).</p>
 
 <p>Given <strong>two</strong> strings <code>str1</code> and <code>str2</code>, return <em>the largest string <code>x</code> such that <code>x</code> divides both <code>str1</code> and</em> <code>str2</code>.</p>
