@@ -22,7 +22,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 <= nums.length <= 104</code></li>
-	<li><code>-231 <= nums[i] <= 231 - 1</code></li>
+	<li><code>1 <= nums.length <= 10<sup>4</sup></code></li>
+	<li><code>-2<sup>31</sup> <= nums[i] <= 2<sup>31</sup> - 1</code></li>
 </ul>
 
