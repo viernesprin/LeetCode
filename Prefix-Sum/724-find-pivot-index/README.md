@@ -13,7 +13,8 @@
 <pre>
 <strong>Input:</strong> nums = [1,7,3,6,5,6]
 <strong>Output:</strong> 3
-<strong>Explanation:</strong> The pivot index is 3.
+<strong>Explanation:</strong> 
+The pivot index is 3.
 Left sum = nums[0] + nums[1] + nums[2] = 1 + 7 + 3 = 11
 Right sum = nums[4] + nums[5] = 5 + 6 = 11
 </pre>
@@ -42,7 +43,7 @@ Right sum = nums[1] + nums[2] = 1 + -1 = 0
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 <= nums.length <= 104</code></li>
+	<li><code>1 <= nums.length <= 10<sup>4</sup></code></li>
 	<li><code>-1000 <= nums[i] <= 1000</code></li>
 </ul>
 
