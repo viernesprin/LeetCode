@@ -5,10 +5,8 @@ class Solution(object):
     
         for i, num in enumerate(nums):
             right_sum = total_sum - left_sum - num
-        
             if left_sum == right_sum:
                 return i
-        
             left_sum += num
             
         return -1
