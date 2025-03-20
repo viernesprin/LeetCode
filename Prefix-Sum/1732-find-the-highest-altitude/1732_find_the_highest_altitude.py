@@ -6,7 +6,7 @@ class Solution(object):
         for i in range(len(gain)):
             temp = gain[i] + altitudes [i]
             altitudes.append(temp)
-
             if temp > max:
                 max = temp
+                
         return max
