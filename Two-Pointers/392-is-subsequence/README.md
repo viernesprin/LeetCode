@@ -23,7 +23,7 @@
 
 <ul>
 	<li><code>0 <= s.length <= 100</code></li>
-	<li><code>0 <= t.length <= 104</code></li>
+	<li><code>0 <= t.length <= 10<sup>4</sup></code></li>
     <li><code>s</code> and <code>t</code> consist only of lowercase English letters.</li>
 </ul>
 
