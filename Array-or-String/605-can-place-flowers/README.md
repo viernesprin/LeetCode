@@ -22,7 +22,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 <= flowerbed.length <= 2 * 104</code></li>
+	<li><code>1 <= flowerbed.length <= 2 * 10<sup>4</sup></code></li>
 	<li><code>flowerbed[i]</code> is <code>0</code> or <code>1</code>.</li>
     <li>There are no two adjacent flowers in <code>flowerbed</code>.</li>
     <li><code>0 <= n <= flowerbed.length</code></li>
