@@ -24,7 +24,7 @@
 
 <ul>
 	<li><code>n == nums.length</code></li>
-	<li><code>1 <= k <= n <= 105</code></li>
-    <li><code>-104 <= nums[i] <= 104</code></li>
+	<li><code>1 <= k <= n <= 10<sup>5</sup></code></li>
+    <li><code>-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup></code></li>
 </ul>
 
